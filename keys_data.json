@@ -1,0 +1,25 @@
+{
+  "KEY-DQYU-KQCY-YIR4": {
+    "max_uses": 1,
+    "current_uses": 1,
+    "images_per_key": 2,
+    "created_at": "2026-01-27T18:57:35.634861",
+    "created_by": 6379139356
+  },
+  "KEY-TEST-1234-5678": {
+    "max_uses": 1,
+    "current_uses": 1,
+    "images_per_key": 1,
+    "created_at": "2026-01-31T23:19:00.216068",
+    "created_by": "bypass_system",
+    "source": "link_bypass"
+  },
+  "KEY-RKD1-FUT4-ADB9": {
+    "max_uses": 1,
+    "current_uses": 1,
+    "images_per_key": 1,
+    "created_at": "2026-01-31T23:35:58.202959",
+    "created_by": "bypass_system",
+    "source": "link_bypass"
+  }
+}
