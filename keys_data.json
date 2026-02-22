@@ -42,5 +42,12 @@
     "images_per_key": 1,
     "created_at": "2026-02-21T17:54:16.170889",
     "created_by": 6379139356
+  },
+  "KEY-UP54-7SSO-EE55": {
+    "max_uses": 1,
+    "current_uses": 0,
+    "images_per_key": 1,
+    "created_at": "2026-02-22T14:56:15.733518",
+    "created_by": 6379139356
   }
 }
