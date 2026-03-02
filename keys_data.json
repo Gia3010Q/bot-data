@@ -59,7 +59,7 @@
   },
   "KEY-0CX5-MMTS-6RHE": {
     "max_uses": 1,
-    "current_uses": 0,
+    "current_uses": 1,
     "images_per_key": 35,
     "created_at": "2026-03-02T18:05:38.009994",
     "created_by": 6379139356
